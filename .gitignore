@@ -1,0 +1,60 @@
+# ── Compiled binaries ────────────────────────────────────────────────────────
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# ── CMake ─────────────────────────────────────────────────────────────────────
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# ── Visual Studio ─────────────────────────────────────────────────────────────
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+x64/
+x86/
+Debug/
+Release/
+
+# ── MinGW / GCC ───────────────────────────────────────────────────────────────
+*.d
+
+# ── Editors ───────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.orig
+
+# ── MemHawk session files (user data, not source) ─────────────────────────────
+*.mhk
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
