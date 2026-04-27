@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27132530/README.md)
-# MemHalkCE-
-I created this project as a test to see how close i could've go as CheatEngine was.  
 # MemHawk CE
 
 > A lightweight, native Cheat Engine alternative written in C++17 — no external dependencies beyond Win32.
